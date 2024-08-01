@@ -1,0 +1,25 @@
+{
+  "name": "pursuit-core-css-intro-lab",
+  "version": "1.0.0",
+  "description": "Use the HTML below for the following questions:",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=5001 .",
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinpursuit/Pursuit-Core-CSS-Intro-Lab.git"
+  },
+  "author": "Ben Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinpursuit/Pursuit-Core-CSS-Intro-Lab/issues"
+  },
+  "homepage": "https://github.com/joinpursuit/Pursuit-Core-CSS-Intro-Lab#readme",
+  "devDependencies": {
+    "cypress": "9.7.0",
+    "cypress-watch-and-reload": "1.10.3",
+    "live-server": "1.1.0"
+  }
+}
